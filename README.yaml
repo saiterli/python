@@ -1,0 +1,11 @@
+
+---
+
+### 🚀 Git Steps
+
+After adding these files in your project folder:
+
+```bash
+git add .
+git commit -m "Added CSV reader with name and age"
+git push origin main
